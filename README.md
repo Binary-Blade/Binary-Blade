@@ -2,10 +2,10 @@
 a fullstack web developer with a specialization in backend, currently enrolled in a Bachelor's program at HETIC Paris. My passions include technology, artificial intelligence, gaming, and philosophy. I always strive for perfection and innovation in my work.
 
 ## 🛠 Currently:
-- **Personal Project**: An interactive code learning app, powered by OpenAI's API, Adonis.js & React.
+- **Personal Project**: An interactive code learning app, powered by OpenAI's API, Nextjs & Nestjs.
 - **Client Work**: Also actively engaged in building three other websites for clients.
 ## 👩‍💻 Opportunities:
-- **Recruiters:** Skilled in Laravel, Expressjs, Adonis.js, and React. Open for collaboration, freelance, and open-source projects.
+- **Recruiters:** Skilled in Laravel, Expressjs, Nestjs, and React/Nextjs. Open for collaboration, freelance, and open-source projects.
 - **Mentors:** Seeking guidance to accelerate my web development learning journey.
 ## 🗨 Contact:
 - Happy to connect whether you're a mentor, a recruiter, or just a tech enthusiast.
