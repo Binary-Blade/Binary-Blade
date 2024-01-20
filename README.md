@@ -4,9 +4,6 @@ A fullstack web developer with a specialization in backend, currently enrolled i
 ## 🛠 Currently:
 - **Personal Project**: An interactive code learning app, powered by OpenAI's API, Nextjs & Nestjs.
 - **Client Work**: Also actively engaged in building three other websites for clients.
-## 👩‍💻 Opportunities:
-- **Recruiters:** Skilled in Laravel, Expressjs, Nestjs, and React/Nextjs. Open for collaboration, freelance, and open-source projects.
-
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=C-elare&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 # 💻FRONTEND
