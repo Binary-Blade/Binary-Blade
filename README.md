@@ -6,7 +6,8 @@ A fullstack web developer with a specialization in backend, currently enrolled i
 - **Client Work**: Also actively engaged in building three other websites for clients.
 ## 👩‍💻 Opportunities:
 - **Recruiters:** Skilled in Laravel, Expressjs, Nestjs, and React/Nextjs. Open for collaboration, freelance, and open-source projects.
-- **Mentors:** Seeking guidance to accelerate my web development learning journey.
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=C-elare&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 # 💻FRONTEND
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
