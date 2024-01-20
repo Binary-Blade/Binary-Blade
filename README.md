@@ -20,7 +20,7 @@ a fullstack web developer with a specialization in backend, currently enrolled i
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white)
 
 # 💻 Tech Stack:
-### FRONTEND
+## FRONTEND
 #### REACT ECOSYSTEM
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
