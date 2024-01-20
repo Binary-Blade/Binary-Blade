@@ -10,9 +10,7 @@ a fullstack web developer with a specialization in backend, currently enrolled i
 ## 🗨 Contact:
 - Happy to connect whether you're a mentor, a recruiter, or just a tech enthusiast.
 ---
-# Language
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=C-elare&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 
 # 💻 Tech Stack:
 ## FRONTEND
