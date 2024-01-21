@@ -46,8 +46,3 @@ A fullstack web developer with a specialization in backend, currently enrolled i
 - 📦**API Testing**: Httpie, Postman
 - 🚀**Hosting & Deployment**: Netlify, Heroku, Firebase, Vercel
 - 🐳**Containerization & Orchestration**: Docker, Kubernetes
----
-## 🛠Common Tools & Platforms
-- 📋**Project & Team Management**: Jira, Notion, Trello
-- 🔄**Version Control**: Git, GitHub
-
