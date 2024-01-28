@@ -1,4 +1,4 @@
-# 💫 Hello, I'm CodeGrunt 🌍
+# 💫 Hello, I'm BinaryBlade 🌍
 A fullstack web developer with a specialization in backend. My passions include technology, artificial intelligence, gaming, and philosophy. I always strive for perfection and innovation in my work.
 
 ## 🛠 Currently:
