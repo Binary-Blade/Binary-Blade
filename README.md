@@ -1,5 +1,5 @@
 # 💫 Hello, I'm BinaryBlade 🌍
-A fullstack web developer with a specialization in backend. My passions include technology, artificial intelligence, gaming, and philosophy. I always strive for perfection and innovation in my work.
+A fullstack web developer with a specialization in backend.
 
 # 🛠 Currently:
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
