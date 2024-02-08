@@ -1,4 +1,4 @@
-# Hello, I'm BinaryBlade 🌍
+# Hello, I'm BinaryBlade
 A fullstack web developer with a specialization in backend.
 
 # 🛠 Currently:
