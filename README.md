@@ -10,5 +10,3 @@ A fullstack web developer with a specialization in backend.
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Binary-Blade&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
