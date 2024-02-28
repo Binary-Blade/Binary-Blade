@@ -1,5 +1,5 @@
 # Hello, I'm BinaryBlade
-A fullstack web developer with a specialization in backend.
+A developer neovim fanboy with a specialization in backend. 
 
 # 🛠 Currently:
 ## Web
@@ -12,8 +12,5 @@ A fullstack web developer with a specialization in backend.
 
 ## Software
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-
-## Environment
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Binary-Blade&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
