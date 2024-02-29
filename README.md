@@ -1,5 +1,6 @@
 # Hello, I'm BinaryBlade
 A developer neovim fanboy with a specialization in backend. 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Binary-Blade&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # WEB
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -16,4 +17,4 @@ A developer neovim fanboy with a specialization in backend.
 
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Binary-Blade&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
