@@ -7,8 +7,6 @@ A developer neovim fanboy with a specialization in backend.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Livewire](https://img.shields.io/badge/livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white)
-![Inertia.js](https://camo.githubusercontent.com/7ff582d1e93a7cead12ac0916efa1879c6569ae5dbef26e9f7276cb729895c60/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d496e657274696126636f6c6f723d393535334539266c6f676f3d496e6572746961266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 # 🛠 SOFTWARE
